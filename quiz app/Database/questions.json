@@ -1,186 +1,352 @@
 {
-  "question": [
+  "question3": [
+    {
+      "id": "10",
+      "q": "Which element is known as the 'king of chemicals' due to its high reactivity?",
+      "o1": "Oxygen",
+      "o2": "Hydrogen",
+      "o3": "Fluorine",
+      "o4": "Chlorine",
+      "ans": "Fluorine"
+    },
+    {
+      "id": "11",
+      "q": "What is the most abundant gas in the Earth's atmosphere?",
+      "o1": "Oxygen",
+      "o2": "Carbon Dioxide",
+      "o3": "Nitrogen",
+      "o4": "Argon",
+      "ans": "Nitrogen"
+    },
+    {
+      "id": "12",
+      "q": "Which planet in our solar system has the strongest magnetic field?",
+      "o1": "Earth",
+      "o2": "Jupiter",
+      "o3": "Saturn",
+      "o4": "Neptune",
+      "ans": "Jupiter"
+    },
+    {
+      "id": "13",
+      "q": "What is the name of the phenomenon where light bends as it passes through different mediums?",
+      "o1": "Reflection",
+      "o2": "Refraction",
+      "o3": "Diffraction",
+      "o4": "Dispersion",
+      "ans": "Refraction"
+    },
+    {
+      "id": "14",
+      "q": "Which of the following is the most acidic substance on the pH scale?",
+      "o1": "Lemon Juice",
+      "o2": "Battery Acid",
+      "o3": "Vinegar",
+      "o4": "Hydrochloric Acid",
+      "ans": "Hydrochloric Acid"
+    },
+    {
+      "id": "15",
+      "q": "In the human body, which organ is primarily responsible for detoxification?",
+      "o1": "Kidneys",
+      "o2": "Liver",
+      "o3": "Stomach",
+      "o4": "Pancreas",
+      "ans": "Liver"
+    },
+    {
+      "id": "16",
+      "q": "Which law of physics states that for every action, there is an equal and opposite reaction?",
+      "o1": "Newton's First Law",
+      "o2": "Newton's Second Law",
+      "o3": "Newton's Third Law",
+      "o4": "Law of Conservation of Energy",
+      "ans": "Newton's Third Law"
+    },
+    {
+      "id": "17",
+      "q": "What is the most common isotope of carbon?",
+      "o1": "Carbon-12",
+      "o2": "Carbon-13",
+      "o3": "Carbon-14",
+      "o4": "Carbon-15",
+      "ans": "Carbon-12"
+    },
+    {
+      "id": "18",
+      "q": "Which of these particles has no electrical charge?",
+      "o1": "Proton",
+      "o2": "Electron",
+      "o3": "Neutron",
+      "o4": "Photon",
+      "ans": "Neutron"
+    },
+    {
+      "id": "19",
+      "q": "Which scientist is known for formulating the theory of general relativity?",
+      "o1": "Isaac Newton",
+      "o2": "Niels Bohr",
+      "o3": "Albert Einstein",
+      "o4": "Marie Curie",
+      "ans": "Albert Einstein"
+    }
+  ],
+  "question2": [
+    {
+      "id": "0",
+      "q": "What is the capital of France?",
+      "o1": "Berlin",
+      "o2": "Madrid",
+      "o3": "Paris",
+      "o4": "Rome",
+      "ans": "Paris"
+    },
     {
       "id": "1",
-      "q": "2+2",
-      "o1": "1",
-      "o2": "2",
-      "o3": "3",
-      "o4": "4",
-      "ans": "4"
+      "q": "Which is the largest continent by area?",
+      "o1": "Africa",
+      "o2": "Asia",
+      "o3": "North America",
+      "o4": "Europe",
+      "ans": "Asia"
     },
     {
       "id": "2",
-      "q": "2+3",
-      "o1": "1",
-      "o2": "5",
-      "o3": "3",
-      "o4": "4",
-      "ans": "5"
+      "q": "What is the longest river in the world?",
+      "o1": "Amazon River",
+      "o2": "Yangtze River",
+      "o3": "Nile River",
+      "o4": "Mississippi River",
+      "ans": "Nile River"
     },
     {
       "id": "3",
-      "q": "2+8",
-      "o1": "10",
-      "o2": "2",
-      "o3": "3",
-      "o4": "4",
-      "ans": "10"
+      "q": "Which country is home to the Great Barrier Reef?",
+      "o1": "Australia",
+      "o2": "New Zealand",
+      "o3": "South Africa",
+      "o4": "Brazil",
+      "ans": "Australia"
     },
     {
       "id": "4",
-      "q": "2+2-2",
-      "o1": "1",
-      "o2": "2",
-      "o3": "3",
-      "o4": "0",
-      "ans": "0"
+      "q": "Mount Everest is located in which mountain range?",
+      "o1": "Himalayas",
+      "o2": "Andes",
+      "o3": "Rockies",
+      "o4": "Alps",
+      "ans": "Himalayas"
     },
     {
       "id": "5",
-      "q": "200+2",
-      "o1": "1",
-      "o2": "202",
-      "o3": "3",
-      "o4": "4",
-      "ans": "202"
+      "q": "Which is the smallest country in the world by area?",
+      "o1": "Monaco",
+      "o2": "Vatican City",
+      "o3": "San Marino",
+      "o4": "Liechtenstein",
+      "ans": "Vatican City"
     },
     {
       "id": "6",
-      "q": "2+29",
-      "o1": "1",
-      "o2": "2",
-      "o3": "31",
-      "o4": "4",
-      "ans": "31"
+      "q": "Which ocean is the largest?",
+      "o1": "Atlantic Ocean",
+      "o2": "Indian Ocean",
+      "o3": "Pacific Ocean",
+      "o4": "Arctic Ocean",
+      "ans": "Pacific Ocean"
     },
     {
       "id": "7",
-      "q": "2+2+2",
-      "o1": "6",
-      "o2": "2",
-      "o3": "3",
-      "o4": "4",
-      "ans": "6"
+      "q": "What is the capital of Japan?",
+      "o1": "Seoul",
+      "o2": "Tokyo",
+      "o3": "Beijing",
+      "o4": "Bangkok",
+      "ans": "Tokyo"
     },
     {
       "id": "8",
-      "q": "2+24",
-      "o1": "1",
-      "o2": "26",
-      "o3": "3",
-      "o4": "4",
-      "ans": "26"
+      "q": "Which country is known as the Land of the Rising Sun?",
+      "o1": "South Korea",
+      "o2": "Japan",
+      "o3": "China",
+      "o4": "Thailand",
+      "ans": "Japan"
     },
     {
       "id": "9",
-      "q": "2+12",
-      "o1": "1",
-      "o2": "2",
-      "o3": "3",
-      "o4": "14",
-      "ans": "14"
+      "q": "Which desert is the largest in the world?",
+      "o1": "Sahara Desert",
+      "o2": "Gobi Desert",
+      "o3": "Kalahari Desert",
+      "o4": "Arabian Desert",
+      "ans": "Sahara Desert"
+    }
+  ],
+  "question": [
+    {
+      "id": "1",
+      "q": "What is 15 + 5 × 2?",
+      "o1": "20",
+      "o2": "25",
+      "o3": "35",
+      "o4": "30",
+      "ans": "25"
+    },
+    {
+      "id": "2",
+      "q": "Find the value of (8 × 3) ÷ 4.",
+      "o1": "4",
+      "o2": "6",
+      "o3": "8",
+      "o4": "5",
+      "ans": "6"
+    },
+    {
+      "id": "3",
+      "q": "What is the remainder when 50 is divided by 7?",
+      "o1": "5",
+      "o2": "1",
+      "o3": "4",
+      "o4": "2",
+      "ans": "1"
+    },
+    {
+      "id": "4",
+      "q": "What is (12 + 3) × 2?",
+      "o1": "15",
+      "o2": "30",
+      "o3": "24",
+      "o4": "18",
+      "ans": "30"
+    },
+    {
+      "id": "5",
+      "q": "How much is 99 + 1 - 50?",
+      "o1": "48",
+      "o2": "50",
+      "o3": "49",
+      "o4": "51",
+      "ans": "50"
+    },
+    {
+      "id": "6",
+      "q": "What is 2³ + 4 × 2?",
+      "o1": "12",
+      "o2": "16",
+      "o3": "14",
+      "o4": "10",
+      "ans": "16"
+    },
+    {
+      "id": "7",
+      "q": "If x = 5, what is the value of x² - x?",
+      "o1": "20",
+      "o2": "15",
+      "o3": "25",
+      "o4": "10",
+      "ans": "20"
+    },
+    {
+      "id": "8",
+      "q": "What is the product of all integers from -2 to 2?",
+      "o1": "-8",
+      "o2": "4",
+      "o3": "0",
+      "o4": "1",
+      "ans": "0"
+    },
+    {
+      "id": "9",
+      "q": "Calculate the value of (18 ÷ 3) + 7.",
+      "o1": "11",
+      "o2": "13",
+      "o3": "10",
+      "o4": "12",
+      "ans": "13"
     },
     {
       "id": "0",
-      "q": "20+2",
-      "o1": "1",
-      "o2": "22",
-      "o3": "3",
-      "o4": "4",
-      "ans": "22"
+      "q": "How many seconds are there in half an hour?",
+      "o1": "1200",
+      "o2": "1800",
+      "o3": "3600",
+      "o4": "1500",
+      "ans": "1800"
     }
   ],
   "user": [
     {
-      "name": "noob",
-      "score": 2,
-      "attempted": 2,
-      "skipped": 4
-    },
-    {
-      "id": "3e14",
-      "name": "dfsdf",
-      "score": 1,
-      "attempted": 4,
-      "skipped": 2
-    },
-    {
-      "id": "ab9f",
-      "name": "child",
-      "score": "0",
-      "attempted": "0",
-      "skipped": 6
-    },
-    {
-      "id": "1d57",
+      "id": "049f",
       "name": "pratham",
-      "score": "0",
-      "attempted": "0",
-      "skipped": 6
+      "score": 0,
+      "attempted": 0,
+      "skipped": 5,
+      "time": 13
     },
     {
-      "id": "5b97",
-      "name": "sf",
-      "score": "0",
-      "attempted": "0",
-      "skipped": 6
+      "id": "049f",
+      "name": "pratham",
+      "score": 0,
+      "attempted": 0,
+      "skipped": 5,
+      "time": 13
     },
     {
-      "id": "35c2",
-      "name": "sad",
-      "score": 3,
-      "attempted": 6,
-      "skipped": 0
+      "id": "049f",
+      "name": "pratham",
+      "score": 0,
+      "attempted": 0,
+      "skipped": 5,
+      "time": 13
     },
     {
-      "id": "52a9",
-      "name": "pallavi",
-      "score": 3,
-      "attempted": 6,
-      "skipped": 0
+      "id": "049f",
+      "name": "pratham",
+      "score": 0,
+      "attempted": 0,
+      "skipped": 5,
+      "time": 13
     },
     {
-      "id": "f954",
-      "name": "gorab",
+      "id": "049f",
+      "name": "pratham",
+      "score": 0,
+      "attempted": 0,
+      "skipped": 5,
+      "time": 13
+    },
+    {
+      "id": "049f",
+      "name": "pratham",
+      "score": 0,
+      "attempted": 0,
+      "skipped": 5,
+      "time": 13
+    },
+    {
+      "id": "0ed7",
+      "name": "lolhh",
       "score": 4,
       "attempted": 5,
-      "skipped": 1
+      "skipped": 0,
+      "time": 78
     },
     {
-      "id": "b518",
-      "name": "iphone man",
-      "score": 3,
-      "attempted": 4,
-      "skipped": 2
+      "id": "b3af",
+      "name": "tt",
+      "score": 33,
+      "attempted": 5,
+      "skipped": 0,
+      "time": 67
     },
     {
-      "id": "964c",
-      "name": "trtrtrtrt",
-      "score": 0,
-      "attempted": 0,
-      "skipped": 6
-    },
-    {
-      "id": "bf8b",
-      "name": "pratham",
-      "score": 0,
-      "attempted": 0,
-      "skipped": 6
-    },
-    {
-      "id": "7090",
-      "name": "test",
-      "score": 4,
-      "attempted": 3,
-      "skipped": 3
-    },
-    {
-      "id": "3fcf",
-      "name": "afsfasff",
-      "score": 0,
-      "attempted": 0,
-      "skipped": 6
+      "id": "2981",
+      "name": "asas",
+      "score": 5,
+      "attempted": 5,
+      "skipped": 0,
+      "time": 67
     }
   ]
 }
